@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Tahrirlash"
+        android:id="@+id/menu_edit"
+        />
+    <item
+        android:title="O'chirish"
+        android:id="@+id/menu_delete"
+        />
+
+</menu>
